@@ -1,0 +1,55 @@
+body {
+    background-color: linen;
+}
+
+img {
+   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    
+   }
+
+
+#about {
+    font-size: 30px;
+    color: white;
+}
+
+#portfolio {
+    font-size: 30px;
+    color: white;
+
+}
+
+#contact {
+    font-size: 30px;
+    color: white;
+}
+
+
+aside{
+    float: right;
+    
+}
+
+.grid-container {
+    display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+  justify-content: center;
+}
+    .grid-container  div {
+        background-color:red;
+        padding: 100px;
+        width: 100px;
+        margin: 10px;
+        text-align: center;
+        line-height: 75px;
+        font-size: 30px;
+    
+   
+
+}
+h1
