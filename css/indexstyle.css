@@ -26,30 +26,3 @@ img {
     color: white;
 }
 
-
-aside{
-    float: right;
-    
-}
-
-.grid-container {
-    display: grid;
-  grid-template-columns: auto auto;
-  grid-gap: 10px;
-  background-color: #2196F3;
-  padding: 10px;
-  justify-content: center;
-}
-    .grid-container  div {
-        background-color:red;
-        padding: 100px;
-        width: 100px;
-        margin: 10px;
-        text-align: center;
-        line-height: 75px;
-        font-size: 30px;
-    
-   
-
-}
-h1
