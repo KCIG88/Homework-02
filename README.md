@@ -1,9 +1,0 @@
-# Homework-02
-
-Create portfolio w/
- with main about me page
- Actual portfolio page
- Contact page
-
- Page layout should be responsive as well as images
- Pages should work properly across multiple devices with varying screen sizes.
